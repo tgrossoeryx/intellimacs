@@ -17,26 +17,26 @@ nnoremap <leader>wx    :action CloseAllEditors<CR>
 vnoremap <leader>wx    <Esc>:action CloseAllEditors<CR>
 
 " Focus window left
-nnoremap <leader>wh         <C-w>h
-vnoremap <leader>wh         <Esc><C-w>h
+nnoremap <leader>wj         <C-w>h
+vnoremap <leader>wj         <Esc><C-w>h
 nnoremap <leader>w<Left>    <C-w>h
 vnoremap <leader>w<Left>    <Esc><C-w>h
 
 " Focus window down
-nnoremap <leader>wj         <C-w>j
-vnoremap <leader>wj         <Esc><C-w>j
+nnoremap <leader>wk         <C-w>j
+vnoremap <leader>wk         <Esc><C-w>j
 nnoremap <leader>w<Down>    <C-w>j
 vnoremap <leader>w<Down>    <Esc><C-w>j
 
 " Focus window up
-nnoremap <leader>wk       <C-w>k
-vnoremap <leader>wk       <Esc><C-w>k
+nnoremap <leader>wl       <C-w>k
+vnoremap <leader>wl       <Esc><C-w>k
 nnoremap <leader>w<Up>    <C-w>k
 vnoremap <leader>w<Up>    <Esc><C-w>k
 
 " Focus window right
-nnoremap <leader>wl          <C-w>l
-vnoremap <leader>wl          <Esc><C-w>l
+nnoremap <leader>wñ          <C-w>l
+vnoremap <leader>wñ          <Esc><C-w>l
 nnoremap <leader>w<Right>    <C-w>l
 vnoremap <leader>w<Right>    <Esc><C-w>l
 
