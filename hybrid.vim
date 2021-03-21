@@ -36,3 +36,6 @@ inoremap <A-f>    <Esc>:action EditorNextWord<CR>a
 
 " Go to previous word
 inoremap <A-b>    <Esc>:action EditorPreviousWord<CR>i
+
+" Paste
+inoremap <C-y>    <Esc>pi
